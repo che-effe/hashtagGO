@@ -203,3 +203,13 @@ body {
     padding: 10px;
   }
 }
+
+@media (max-width:500px){
+  .body a.main-button{
+    background-color: #fff;
+    border: none;
+    color: #597ea5;
+    font-size: 18px;
+    font-weight: 400;
+  }
+}
